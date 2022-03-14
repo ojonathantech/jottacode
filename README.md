@@ -25,3 +25,4 @@
   <img alt="jQuery" title="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 </div>
 
+![Snake animation](https://github.com/jottacode/jottacode/blob/output/github-contribution-grid-snake.svg)
