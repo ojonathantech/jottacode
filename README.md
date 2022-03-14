@@ -2,11 +2,14 @@
 
 [![Portfólio](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jotta.dev.br)
 [![Github](https://img.shields.io/github/followers/jottacode.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/jottacode)<br/>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jotaquadros/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jottadev)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC_xQypOQYPHdTHKJqV6V0sQ)
-
+  
 ![Jonathan GitHub stats](https://github-readme-stats.vercel.app/api?username=jottacode&count_private=true&show_icons=true&theme=algolia)
+
+<div style="display: inline_block">
+  <a href="https://www.linkedin.com/in/jotaquadros/" title="Acessar Linkedin" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://instagram.com/jottadev" title="Acessar Instagram" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.youtube.com/channel/UC_xQypOQYPHdTHKJqV6V0sQ" title="Acessar Youtube" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+</div>
 
 ## Tecnologias que domino
 
