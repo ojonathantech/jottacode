@@ -6,7 +6,7 @@
 ![Jonathan GitHub stats](https://github-readme-stats.vercel.app/api?username=jottacode&count_private=true&show_icons=true&theme=algolia)
 
 <div style="display: inline_block">
-  <a href="https://www.linkedin.com/in/jotaquadros/" title="Acessar Linkedin" target="_blank" ><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/jotaquadros/" title="Acessar Linkedin" ><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://instagram.com/jottadev" title="Acessar Instagram" target="_blank" ><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.youtube.com/channel/UC_xQypOQYPHdTHKJqV6V0sQ" title="Acessar Youtube" target="_blank" ><img alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </div>
