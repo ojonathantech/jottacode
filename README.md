@@ -1,4 +1,4 @@
-### Opa, tudo bem? Eu sou Jonathan Quadros 👋😎
+### Hi there! I'm Jonathan Quadros 👋
 
 [![Portfólio](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jotta.dev.br)
 [![Github](https://img.shields.io/github/followers/jottacode.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/jottacode)<br/>
@@ -11,7 +11,7 @@
   <a href="https://www.youtube.com/channel/UC_xQypOQYPHdTHKJqV6V0sQ" target="_blank" title="Acessar Youtube" ><img alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </div>
 
-## Tecnologias que domino
+## Technologies i master
 
 <div style="display: inline_block">
   <img alt="HTML5" title="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -19,7 +19,7 @@
   <img alt="JAVASCRIPT" title="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
-## Tecnologias que estudo atualmente
+## Technologies being studied currently
 
 <div style="display: inline_block">
   <img alt="React" title="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
