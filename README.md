@@ -7,7 +7,7 @@
 
 <div style="display: inline_block">
   <a href="https://www.linkedin.com/in/jotaquadros/" target="_blank" title="Acessar Linkedin" ><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://instagram.com/jottadev" target="_blank" title="Acessar Instagram" ><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://instagram.com/jotaquadros.dev" target="_blank" title="Acessar Instagram" ><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.youtube.com/channel/UC_xQypOQYPHdTHKJqV6V0sQ" target="_blank" title="Acessar Youtube" ><img alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </div>
 
