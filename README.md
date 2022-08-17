@@ -1,7 +1,6 @@
 ### Hi there! I'm Jonathan Quadros 👋
 
 [![Portfólio](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jotta.dev.br)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/295340cf-fa5b-4191-81c9-ec1d5acfca34/deploy-status)](https://app.netlify.com/sites/jotaquadros/deploys)
 [![Github](https://img.shields.io/github/followers/jottacode.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/jottacode)<br/>
   
 ![Jonathan GitHub stats](https://github-readme-stats.vercel.app/api?username=jottacode&count_private=true&show_icons=true&theme=algolia)
